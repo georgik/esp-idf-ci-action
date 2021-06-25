@@ -2,6 +2,10 @@
 
 GitHub Action for ESP32 CI
 
+** Deprecated **
+
+Repository moved to https://github.com/espressif/esp-idf-ci-action
+
 ## Example repo with GitHub Action
 
 - [georgik/esp-dev-kits](https://github.com/georgik/esp-dev-kits/blob/feature/github_action_build/.github/workflows/build-smart-panel.yml)
